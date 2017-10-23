@@ -28,7 +28,7 @@
   },
   "homepage": "https://github.com/danscan/redux-mixpanel#readme",
   "dependencies": {
-    "buffer": "^3.4.3",
+    "buffer": "^4.9.1",
     "superagent": "^3.7.0"
   },
   "devDependencies": {
